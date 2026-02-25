@@ -32,3 +32,11 @@ npm run dev
 
 
 Sector analytics structure improved.
+
+
+
+
+README structure improved.
+
+
+Filtering logic improvement placeholder.
