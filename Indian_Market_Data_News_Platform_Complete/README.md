@@ -23,5 +23,6 @@ cd frontend
 npm install
 npm run dev
 
+MINOR IMPROVEMENT 
 minor 2
 Heatmap placeholder linked to Issue #3.
