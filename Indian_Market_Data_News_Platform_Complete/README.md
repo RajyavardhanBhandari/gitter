@@ -32,3 +32,8 @@ npm run dev
 
 
 Sector analytics structure improved.
+
+
+
+
+README structure improved.
