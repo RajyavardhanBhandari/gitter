@@ -24,3 +24,4 @@ npm install
 npm run dev
 
 minor 2
+Heatmap placeholder linked to Issue #3.
