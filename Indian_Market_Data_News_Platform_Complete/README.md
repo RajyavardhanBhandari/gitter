@@ -33,3 +33,5 @@ npm run dev
 
 
 change 3
+minor 2
+Heatmap placeholder linked to Issue #3.
