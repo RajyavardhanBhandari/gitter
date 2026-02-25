@@ -1,0 +1,7 @@
+
+[
+  {"symbol":"RELIANCE.NS","name":"Reliance Industries","sector":"Energy","pe":28.5,"roe":18.2,"eps":89.4},
+  {"symbol":"TCS.NS","name":"TCS","sector":"IT","pe":31.2,"roe":42.1,"eps":112.3},
+  {"symbol":"HDFCBANK.NS","name":"HDFC Bank","sector":"Banking","pe":22.7,"roe":16.5,"eps":74.1},
+  {"symbol":"INFY.NS","name":"Infosys","sector":"IT","pe":26.8,"roe":30.4,"eps":65.2}
+]
