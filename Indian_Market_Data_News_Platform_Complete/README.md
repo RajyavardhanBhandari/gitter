@@ -22,3 +22,5 @@ npm run dev
 cd frontend
 npm install
 npm run dev
+
+Heatmap placeholder linked to Issue #3.
